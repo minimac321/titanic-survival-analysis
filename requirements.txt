@@ -2,3 +2,10 @@ pandas
 matplotlib
 numpy
 seaborn
+scipy
+xgboost
+statsmodels
+sklearn
+pylab
+pydotplus
+six
