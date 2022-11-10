@@ -1,8 +1,8 @@
 # Titanic Survival Analysis
 
-In the early hours of the morning of 15 April 1912, the RMS Titanic sank on its maiden voyage across the Atlantic Ocean after it struck an iceberg. As part of an independent investigation into the tragedy, I have taken part in conducting the analysing into the survival logs for passengers aboard the Titanic. 
+In the early hours of the morning of 15 April 1912, the RMS Titanic sank on its maiden voyage across the Atlantic Ocean after it struck an iceberg. As part of an independent investigation into the tragedy, I have taken part in conducting the analysing into the survival logs of passengers aboard the Titanic. 
 
-The purpose of this notebook it to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Additionally, to understand which groups of passengers were more or less likely to survive due to various factors (i.e. Sex, Socio-economic).
+The purpose of this notebook is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Additionally, to understand which groups of passengers were more or less likely to survive due to various factors (i.e. Sex, Socio-economic).
 
 The components of this analysis will include:
 - Exploratory Data Analysis (Part of RM-24-10-2022-Titanic-EDA-and-Data-Cleaning notebook)
